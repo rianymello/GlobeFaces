@@ -35,6 +35,5 @@ Currently, the project contains the following main folders:
 ## Referenced datasets
 
 - FairFace  
-- [Other datasets used, list here]
 
 ---
