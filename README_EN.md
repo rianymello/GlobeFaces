@@ -29,8 +29,7 @@ Currently, the project contains the following main folders:
 
 ## License
 
-- Source code: MIT License (see LICENSE file)  
-- Dataset: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) (see LICENSE-DATASET.md)
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
 
 ## Referenced datasets
 
