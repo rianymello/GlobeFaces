@@ -29,8 +29,7 @@ Atualmente, o projeto contém as seguintes pastas principais:
 
 ## Licença
 
-- Código-fonte: MIT License (veja arquivo LICENSE)
-- Dataset: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) (veja LICENSE-DATASET.md)
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
 
 ## Bases de dados utilizadas como referência
 
